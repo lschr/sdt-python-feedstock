@@ -4,8 +4,8 @@
 
 context:
   name: sdt-python
-  version: "20.1.1"
-  hash: "c3107a59d00f9b0b378e70dfcc626f3e0ca609d3e87bb9268d4ae36318675ce1"
+  version: "20.1.2"
+  hash: "20d0a679c6cc13144c1d520c5c6de7a850e66326be6f572ba9d719f3af3c83d5"
   python_min: "3.11"
 
 package:
@@ -35,7 +35,7 @@ requirements:
     - pyyaml
     - imageio >=2.29
     - numba
-    - pyside6 >=6.10.0
+    - pyside6 >=6.10.2
     - matplotlib-base
     - scipy >0.18
     - tifffile >=2022.2.2
